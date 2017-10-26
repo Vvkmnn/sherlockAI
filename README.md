@@ -9,7 +9,6 @@ Another [AIND](https://www.udacity.com/course/artificial-intelligence-nanodegree
 ### Timeseries Prediction:
 
 ![](images/time_windowing.gif)
-Another [AIND]()
 
 ## Rubric
 
