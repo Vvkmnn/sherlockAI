@@ -1,6 +1,6 @@
 # sherlockAI
 
-Another [AIND](https://www.udacity.com/course/artificial-intelligence-nanodegree--nd889) project, this time exploring how RNN structures in Keras can be used for all sorts of neat things like:
+Another [AIND](https://www.udacity.com/course/artificial-intelligence-nanodegree--nd889) project, this time exploring how Recurrent Neural Nets can be used for all sorts of neat things like:
 
 ### Text Generation:
 
@@ -9,6 +9,19 @@ Another [AIND](https://www.udacity.com/course/artificial-intelligence-nanodegree
 ### Timeseries Prediction:
 
 ![](images/time_windowing.gif)
+
+## Setup
+This project requires Python 3 (Preferably as distributed by [Anaconda](https://www.continuum.io/downloads)) and [Tensorflow](https://www.tensorflow.org/) and [Keras](https://keras.io/).
+
+```python
+opencv-python==3.2.0.6
+matplotlib==2.0.0
+numpy==1.12.0
+scipy==0.18.1
+keras==2.0.2
+scikit-learn==0.18.1
+tensorflow==1.0.0
+```
 
 ## Rubric
 
